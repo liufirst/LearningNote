@@ -1,4 +1,6 @@
 # 与github库进行连接
+**教程支持：** https://blog.csdn.net/qq_35246620/article/details/69668846
+
 ①首先在本地创建文件夹（总库）
 
 ②执行`git  clone  https://github.com/liufirst/LearningNote.git`命令，拷贝仓库到“本地总库”
