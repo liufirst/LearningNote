@@ -46,16 +46,16 @@ https://github.com/oldj/SwitchHosts/releases
 151.101.64.133 raw.githubusercontent.com  
 151.101.108.133 gist.githubusercontent.com  
 151.101.108.133 cloud.githubusercontent.com  
-151.101.108.133 camo.githubusercontent.com  
-151.101.108.133 avatars0.githubusercontent.com  
-151.101.108.133 avatars1.githubusercontent.com  
-151.101.108.133 avatars2.githubusercontent.com  
-151.101.108.133 avatars3.githubusercontent.com  
-151.101.108.133 avatars4.githubusercontent.com  
-151.101.108.133 avatars5.githubusercontent.com   
-151.101.108.133 avatars6.githubusercontent.com  
-151.101.108.133 avatars7.githubusercontent.com  
-151.101.108.133 avatars8.githubusercontent.com  
+199.232.96.133 camo.githubusercontent.com  
+199.232.96.133 avatars0.githubusercontent.com  
+199.232.96.133 avatars1.githubusercontent.com  
+199.232.96.133 avatars2.githubusercontent.com  
+199.232.96.133 avatars3.githubusercontent.com  
+199.232.96.133 avatars4.githubusercontent.com  
+199.232.96.133 avatars5.githubusercontent.com  
+199.232.96.133 avatars6.githubusercontent.com  
+199.232.96.133 avatars7.githubusercontent.com  
+199.232.96.133 avatars8.githubusercontent.com   
 
 # 图床
 **视频链接教学：** https://www.bilibili.com/video/BV1Lt411J7Mp?from=search&seid=13082337418571714831  
