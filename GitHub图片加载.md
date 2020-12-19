@@ -1,8 +1,14 @@
 # 解决DNS污染（github图片不加载）
-SwitchHosts工具
 
-下载地址 
+## 解决问题的思路：
+图片挂掉了，shift+ctrl++c放到挂到的图片上  
+在右侧会显示图片资源的地址，截取主地址。（就是截止到.com那)  
+通过`https://www.ipaddress.com/`查询网址的DNS
+更新到host文件
 
+
+SwitchHosts工具  
+`下载地址`
 https://github.com/oldj/SwitchHosts/releases
 
 **（但是有一个问题，使用下面的dns地址后，原本不能加载的图片可以加载了，但是原本能加载的图片如头像，却挂了）**
