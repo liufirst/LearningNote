@@ -60,4 +60,7 @@ https://github.com/oldj/SwitchHosts/releases
 # 图床
 **视频链接教学：** https://www.bilibili.com/video/BV1Lt411J7Mp?from=search&seid=13082337418571714831  
 **所用软件及地址：** **Picgo** https://github.com/Molunerfinn/PicGo
+## 2020-12-20更新
+好用、免费的图床网站`https://imgbb.com/`
+注册的邮箱是网易邮箱
  
