@@ -61,8 +61,8 @@ https://github.com/oldj/SwitchHosts/releases
 **视频链接教学：** https://www.bilibili.com/video/BV1Lt411J7Mp?from=search&seid=13082337418571714831  
 **所用软件及地址：** **Picgo** https://github.com/Molunerfinn/PicGo
 ## 2020-12-20更新
-好用、免费的图床网站`https://imgbb.com/`
+1.好用、免费的图床网站`https://imgbb.com/`
 注册的邮箱是网易邮箱  
-聚合图床：https://www.superbed.cn/**现在在用的就是这个，微信注册的**
+2.聚合图床：https://www.superbed.cn/  **现在在用的就是这个，微信注册的**
 
  
